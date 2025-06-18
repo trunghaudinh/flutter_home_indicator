@@ -18,8 +18,8 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.example.home_indicator
-        pluginClass: HomeIndicatorPlugin
+      # android:
+      #   package: com.example.home_indicator
+      #   pluginClass: HomeIndicatorPlugin
       ios:
         pluginClass: HomeIndicatorPlugin
